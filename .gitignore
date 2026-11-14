@@ -222,3 +222,8 @@ __marimo__/
 raw/
 clean/
 *.db
+
+# Project data (re-create by running the pipeline)
+raw/
+clean/
+*.db
